@@ -1,0 +1,17 @@
+C:\Users\инет\source\repos\Marquize01\Marquize01\bin\Debug\Marquize01.exe.config
+C:\Users\инет\source\repos\Marquize01\Marquize01\bin\Debug\Marquize01.exe
+C:\Users\инет\source\repos\Marquize01\Marquize01\bin\Debug\Marquize01.pdb
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01.csproj.AssemblyReference.cache
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\MainWindow.g.cs
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Список клиентов.g.cs
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\App.g.cs
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01_MarkupCompile.cache
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01_MarkupCompile.lref
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\MainWindow.baml
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Список клиентов.baml
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01.g.resources
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01.Properties.Resources.resources
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01.csproj.GenerateResource.cache
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01.csproj.CoreCompileInputs.cache
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01.exe
+C:\Users\инет\source\repos\Marquize01\Marquize01\obj\Debug\Marquize01.pdb
